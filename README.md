@@ -3,6 +3,7 @@
 ## Array
 
 - [Reverse Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+- [Distribute_Candies](https://leetcode.com/problems/distribute-candies/)
 
 ## String
 

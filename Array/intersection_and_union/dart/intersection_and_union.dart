@@ -1,9 +1,9 @@
 import 'dart:io';
 
 main(){
-	var arr1 = stdin.readLineSync().join('');
+	var arr1 = stdin.readLineSync();
 	arr1 = arr1.split(" ").map(int.parse).toList();
-	var arr2 = stdin.readLineSync().join('');
+	var arr2 = stdin.readLineSync();
 	arr2 = arr2.split(" ").map(int.parse).toList();
 
 	int i =0,j=0,count = 0;
